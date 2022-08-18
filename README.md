@@ -1,6 +1,6 @@
 ## Olá eu sou Ernani Soares Junior
 
-<p>Atualmente estou cursando programação e desenvolvimentode páginas e aplicações web Front-End.</p>
+<p>Atualmente estou cursando programação e desenvolvimentode páginas e aplicações Front-End.</p>
 <div align="center">
   <a href="https://github.com/ErnaniSoaresJr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErnaniSoaresJr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
